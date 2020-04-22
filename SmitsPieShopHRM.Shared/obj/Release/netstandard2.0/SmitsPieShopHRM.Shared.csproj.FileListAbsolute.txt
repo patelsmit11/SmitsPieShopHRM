@@ -1,0 +1,9 @@
+C:\Users\smit.patel\source\repos\SmitsPieShopHRM.server\SmitsPieShopHRM.Shared\bin\Release\netstandard2.0\SmitsPieShopHRM.Shared.deps.json
+C:\Users\smit.patel\source\repos\SmitsPieShopHRM.server\SmitsPieShopHRM.Shared\bin\Release\netstandard2.0\SmitsPieShopHRM.Shared.dll
+C:\Users\smit.patel\source\repos\SmitsPieShopHRM.server\SmitsPieShopHRM.Shared\bin\Release\netstandard2.0\SmitsPieShopHRM.Shared.pdb
+C:\Users\smit.patel\source\repos\SmitsPieShopHRM.server\SmitsPieShopHRM.Shared\obj\Release\netstandard2.0\SmitsPieShopHRM.Shared.csproj.CoreCompileInputs.cache
+C:\Users\smit.patel\source\repos\SmitsPieShopHRM.server\SmitsPieShopHRM.Shared\obj\Release\netstandard2.0\SmitsPieShopHRM.Shared.AssemblyInfoInputs.cache
+C:\Users\smit.patel\source\repos\SmitsPieShopHRM.server\SmitsPieShopHRM.Shared\obj\Release\netstandard2.0\SmitsPieShopHRM.Shared.AssemblyInfo.cs
+C:\Users\smit.patel\source\repos\SmitsPieShopHRM.server\SmitsPieShopHRM.Shared\obj\Release\netstandard2.0\SmitsPieShopHRM.Shared.dll
+C:\Users\smit.patel\source\repos\SmitsPieShopHRM.server\SmitsPieShopHRM.Shared\obj\Release\netstandard2.0\SmitsPieShopHRM.Shared.pdb
+C:\Users\smit.patel\source\repos\SmitsPieShopHRM.server\SmitsPieShopHRM.Shared\obj\Release\netstandard2.0\SmitsPieShopHRM.Shared.csprojAssemblyReference.cache

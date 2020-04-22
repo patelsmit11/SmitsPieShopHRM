@@ -1,0 +1,4 @@
+C:\Users\smit.patel\source\repos\SmitsPieShopHRM.server\SmitsPieShopHRM.Api\obj\Release\netcoreapp2.0\SmitsPieShopHRM.Api.csprojAssemblyReference.cache
+C:\Users\smit.patel\source\repos\SmitsPieShopHRM.server\SmitsPieShopHRM.Api\obj\Release\netcoreapp2.0\SmitsPieShopHRM.Api.csproj.CoreCompileInputs.cache
+C:\Users\smit.patel\source\repos\SmitsPieShopHRM.server\SmitsPieShopHRM.Api\obj\Release\netcoreapp2.0\SmitsPieShopHRM.Api.AssemblyInfoInputs.cache
+C:\Users\smit.patel\source\repos\SmitsPieShopHRM.server\SmitsPieShopHRM.Api\obj\Release\netcoreapp2.0\SmitsPieShopHRM.Api.AssemblyInfo.cs

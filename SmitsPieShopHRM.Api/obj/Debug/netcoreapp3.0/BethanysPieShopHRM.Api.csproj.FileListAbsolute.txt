@@ -1,0 +1,5 @@
+C:\Users\smit.patel\source\repos\SmitsPieShopHRM.server\BethanysPieShopHRM.Api\obj\Debug\netcoreapp3.0\BethanysPieShopHRM.Api.csprojAssemblyReference.cache
+C:\Users\smit.patel\source\repos\SmitsPieShopHRM.server\BethanysPieShopHRM.Api\obj\Debug\netcoreapp3.0\BethanysPieShopHRM.Api.csproj.CoreCompileInputs.cache
+C:\Users\smit.patel\source\repos\SmitsPieShopHRM.server\BethanysPieShopHRM.Api\obj\Debug\netcoreapp3.0\BethanysPieShopHRM.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\smit.patel\source\repos\SmitsPieShopHRM.server\BethanysPieShopHRM.Api\obj\Debug\netcoreapp3.0\BethanysPieShopHRM.Api.AssemblyInfoInputs.cache
+C:\Users\smit.patel\source\repos\SmitsPieShopHRM.server\BethanysPieShopHRM.Api\obj\Debug\netcoreapp3.0\BethanysPieShopHRM.Api.AssemblyInfo.cs
